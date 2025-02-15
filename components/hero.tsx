@@ -11,7 +11,7 @@ export function Hero() {
           height={200}
           className="rounded-full mx-auto mb-8 border-4 border-pink-300 shadow-lg"
         />
-        <h1 className="text-4xl font-bold text-gray-800 mb-4">Tayyaba Shahid</h1>
+        <h1 className="text-4xl font-bold text-gray-800 mb-4">Laiba Shahid</h1>
         <p className="text-xl text-gray-600 mb-8">Web Developer | Next.js | TypeScript | Tailwind CSS</p>
         <a
           href="#contact"
